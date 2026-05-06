@@ -3,9 +3,9 @@
 	"id": "peat-block",
 	"version": "${version}",
 	"name": "Peat Block",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "",
 	"authors": [
-		"Me!"
+		"Salad"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
